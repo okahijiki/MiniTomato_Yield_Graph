@@ -1,0 +1,17 @@
+{
+    "instructions": {
+        "extract_data": {
+            "data_format": "CSV",
+            "items_to_extract": ["各都道府県のミニトマトの収穫量"]
+        },
+        "create_bar_chart": {
+            "vertical_axis": "各都道府県",
+            "horizontal_axis": "ミニトマトの収穫量",
+            "sorting_order": "descending"
+        },
+        "alternative_language": {
+            "original_language": "Japanese",
+            "alternative_language": "English"
+        }
+    }
+}
